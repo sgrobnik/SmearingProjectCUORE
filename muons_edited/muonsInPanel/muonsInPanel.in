@@ -1,0 +1,23 @@
+#
+# macro file for TestEm18.cc
+#
+/control/cout/ignoreThreadsExcept 0
+/control/verbose 2
+/run/verbose 1
+#
+/testem/det/setMat Panel
+/testem/det/setSize 2.54cm
+#
+/testem/phys/addPhysics standard
+#
+/run/setCut 1 mm
+#
+/process/em/verbose 0
+/process/em/printParameters 
+#
+/run/initialize
+#
+/gps/particle mu+ 
+/gps/energy 1 TeV
+#
+/run/beamOn 100000

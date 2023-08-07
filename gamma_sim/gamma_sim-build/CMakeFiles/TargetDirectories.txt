@@ -1,0 +1,4 @@
+/home/dt592/Geant4Work/gamma_sim/gamma_sim-build/CMakeFiles/edit_cache.dir
+/home/dt592/Geant4Work/gamma_sim/gamma_sim-build/CMakeFiles/rebuild_cache.dir
+/home/dt592/Geant4Work/gamma_sim/gamma_sim-build/CMakeFiles/GammaSimulation.dir
+/home/dt592/Geant4Work/gamma_sim/gamma_sim-build/CMakeFiles/gamma_sim.dir

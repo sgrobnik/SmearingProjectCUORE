@@ -12,7 +12,7 @@
 /run/initialize
 #
 /gps/particle gamma
-/gps/energy 1230 keV
+/gps/energy 1460 keV
 /gps/position 0.0 0.0 0.05 m
 
 /gps/direction 0 0 -1
@@ -45,4 +45,4 @@
 
 #
 /run/printProgress 50000
-/run/beamOn 32500
+/run/beamOn 629339

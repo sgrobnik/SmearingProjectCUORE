@@ -25,7 +25,7 @@ from root_numpy import array2hist, hist2array, fill_hist
 import warnings
 warnings.filterwarnings("ignore")
 
-sys.path.append('/home/dt592/Geant4Work/gamma_sim/gamma_sim-build') # cd to the location of the following modules:
+sys.path.append('libs/') # cd to the location of the following modules:
 from dt5202 import dt5202_crunch # Import parser that Tom wrote
 from dt5202oldDAQ import dt5202_crunch as dt5202_crunch_oldDAQ # Old ver
 
